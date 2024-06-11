@@ -3,11 +3,11 @@ How I'm writing TODOs in my coding projects.
 
 ## Description
 - "TODO" as first word, optional expressions follow
-- expression : one of multiple tags and/or verbal description follows (optional, actually)
-- separation of multiple expressions with "+"
-- tag: one word in ALL-CAPS, category of the todo ([see the list of tags I use]
-- multiple tags in a row: precision, subcategory of the todo(#frequently-used-tags-by-me))
-- description: anything else, although nothing holds you back from using ALL-CAPS too
+- Expression : one of multiple tags and/or verbal description follows (optional, actually)
+    - separation of multiple expressions with "+"
+- Tag: one word in ALL-CAPS, category of the todo ([see the list of tags I use]
+    - multiple tags in a row: precision, subcategory of the todo(#frequently-used-tags-by-me))
+- Description: anything else, although nothing holds you back from using ALL-CAPS too
 
 ## EBNF form
 ```html
