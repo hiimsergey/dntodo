@@ -33,6 +33,7 @@ How I'm writing TODOs in my coding projects.
 - `END`: do this when you're done with the rest
 - `FINISH`: complete a part that you started
 - `MEMORY`: fix memory management here
+- `MOVE`: move this code to another place or file
 - `NOW`: resume here on the next session
 - `PLAN`: description of the structure of the code you're about to write
 - `TEST`: this code is for testing/debugging, remove later
