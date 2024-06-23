@@ -5,6 +5,8 @@ How I'm writing TODOs in my coding projects.
 - "TODO" as first word, optional expressions follow
 - Expression : one of multiple tags and/or verbal description follows (optional, actually)
     - separation of multiple expressions with "+"
+    - `?` finally: option
+        - `??`: doubt
 - Tag: one word in ALL-CAPS, category of the todo ([see the list of tags I use]
     - multiple tags in a row: precision, subcategory of the todo(#frequently-used-tags-by-me))
 - Description: anything else, although nothing holds you back from using ALL-CAPS too
@@ -12,7 +14,7 @@ How I'm writing TODOs in my coding projects.
 ## EBNF form
 ```html
 <todo> = "TODO" [<expression> {" +" <expression>}]
-<expression> = <tag> | <description> | <tag> <description>
+<expression> = (<tag> | <description> | <tag> <description>)["?"["?"]]
 
 <tag> = {" " <capital_word>}
 <description> = {" " <mixed_word>}
