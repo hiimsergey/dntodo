@@ -7,8 +7,8 @@ How I'm writing TODOs in my coding projects.
     - separation of multiple expressions with "+"
     - `?` finally: option
         - `??`: doubt
-- Tag: one word in ALL-CAPS, category of the todo ([see the list of tags I use]
-    - multiple tags in a row: precision, subcategory of the todo(#frequently-used-tags-by-me))
+- Tag: one word in ALL-CAPS, category of the todo
+    - multiple tags in a row: precision, subcategory of the todo
 - Description: anything else, although nothing holds you back from using ALL-CAPS too
 
 ## EBNF form
@@ -28,7 +28,7 @@ How I'm writing TODOs in my coding projects.
 ```
 
 ## Frequently used tags (by me)
-|||
+| Tag | Meaning |
 | -            | -                                                              |
 | **CONSIDER** | think about keeping this code                                  |
 | **DEBUG**    | debug this part                                                |
