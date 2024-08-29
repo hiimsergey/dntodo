@@ -15,8 +15,8 @@ How I'm writing TODOs in my coding projects.
 ```html
 <todo> = "TODO" [<expression> {" +" <expression>}]
 
-<expression> = (<tag> | <description> | <tag> <description>)["?"["?"]]
-<tag> = {" " <capital_word>}
+<expression> = (<tag> | <description> | <tag> <description>)
+<tag> = {" " <capital_word>}["?" ["?"]]
 <description> = {" " <mixed_word>}
 
 <capital_word> = {<capital_letter>}
