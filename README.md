@@ -14,8 +14,8 @@ How I'm writing TODOs in my coding projects.
 ## EBNF form
 ```html
 <todo> = "TODO" [<expression> {" +" <expression>}]
-<expression> = (<tag> | <description> | <tag> <description>)["?"["?"]]
 
+<expression> = (<tag> | <description> | <tag> <description>)["?"["?"]]
 <tag> = {" " <capital_word>}
 <description> = {" " <mixed_word>}
 
