@@ -32,7 +32,7 @@ How I'm writing TODOs in my coding projects.
 | -            | -                                                              |
 | **CONSIDER** | think about keeping this code                                  |
 | **DEBUG**    | debug this part                                                |
-| **END**      | do this when you're done with the rest                         |
+| **FINAL**    | do this when you're done with the rest                         |
 | **FINISH**   | complete a part that you started                               |
 | **MEMORY**   | fix memory management here                                     |
 | **MOVE**     | move this code to another place or file                        |
